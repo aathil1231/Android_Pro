@@ -1,2 +1,4 @@
-# Android_Pro
- android and flutter projects
+# Android Projects
+ This repository holds android projects and flutter projects that develop in Android Studio.
+
+
